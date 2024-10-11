@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.7.0 <0.9.0;
 
-import "./Groth16Verifier.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
+import "./Groth16Verifier.sol";
 
 contract CNUNFT is ERC721URIStorage, Ownable {
     Groth16Verifier public verifier;

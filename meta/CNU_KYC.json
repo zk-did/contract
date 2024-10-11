@@ -1,0 +1,16 @@
+{
+    "name": "CNU KYC NFT",
+    "description": "충남대학교 KYC 인증 NFT입니다.",
+    "image": "https://maroon-genuine-guineafowl-789.mypinata.cloud/ipfs/QmX9Ez9UhvC1im479nmRLWMox5Jck99jSX7Wvh1NcjJjXm",
+    "attributes": [
+      {
+        "trait_type": "University",
+        "value": "Chungnam National University"
+      },
+      {
+        "trait_type": "KYC Status",
+        "value": "Verified"
+      }
+    ]
+  }
+  
